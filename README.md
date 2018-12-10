@@ -1,4 +1,4 @@
-# Lista De Exercícios em PHP
+# Lista De Exercícios
 
 Lista retirada do site: https://python.org.br/
 
@@ -6,7 +6,7 @@ Lista retirada do site: https://python.org.br/
 
 ## Lista de exercícios:
 
-- [Estrutura Sequencial](https://github.com/josemalcher/ListaDeExercicios-PHP/tree/master/EstruturaSequencial)
+- [Estrutura Sequencial](/EstruturaSequencial/README.md)
 - [Estrutura De Decisão](https://github.com/josemalcher/ListaDeExercicios-PHP/tree/master/EstruturaDeDecisao)
 - [Estrutura De Repetição](https://github.com/josemalcher/ListaDeExercicios-PHP/tree/master/EstruturaDeRepeticao)
 - [Exercícios Listas](https://github.com/josemalcher/ListaDeExercicios-PHP/tree/master/ExerciciosListas)
